@@ -32,7 +32,6 @@ html {
 
 body {
     font-family: var(--font-body);
-    background: url("background.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
